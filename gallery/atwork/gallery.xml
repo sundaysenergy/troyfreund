@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="420" maxImageHeight="420" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="3" thumbnailRows="4" navPosition="left" title="{ troy at work }" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>img-00.jpg</filename>	
+</image>
+<image>
+	<filename>img-01.jpg</filename>	
+</image>
+<image>
+	<filename>img-02.jpg</filename>
+</image>
+<image>
+	<filename>img-03.jpg</filename>
+</image>
+<image>
+	<filename>img-04.jpg</filename>	
+</image>
+<image>
+	<filename>img-05.jpg</filename>	
+</image>
+<image>
+	<filename>img-06.jpg</filename>	
+</image>
+<image>
+	<filename>img-07.jpg</filename>	
+</image>
+<image>
+	<filename>img-08.jpg</filename>	
+</image>
+<image>
+	<filename>img-09.jpg</filename>	
+</image>
+<image>
+	<filename>img-38.jpg</filename>	
+</image>
+<image>
+	<filename>img-39.jpg</filename>	
+</image>
+<image>
+	<filename>img-40.jpg</filename>	
+</image>
+
+
+</simpleviewerGallery>

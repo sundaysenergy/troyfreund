@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="420" maxImageHeight="420" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="0" stagePadding="40" thumbnailColumns="3" thumbnailRows="4" navPosition="left" title="{ wedding }" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>img-01.jpg</filename>	
+</image>
+<image>
+	<filename>img-02.jpg</filename>	
+</image>
+<image>
+	<filename>img-03.jpg</filename>
+</image>
+<image>
+	<filename>img-04.jpg</filename>
+</image>
+<image>
+	<filename>img-05.jpg</filename>	
+</image>
+<image>
+	<filename>img-06.jpg</filename>	
+</image>
+<image>
+	<filename>img-07.jpg</filename>	
+</image>
+<image>
+	<filename>img-08.jpg</filename>	
+</image>
+<image>
+	<filename>img-09.jpg</filename>	
+</image>
+<image>
+	<filename>img-10.jpg</filename>	
+</image>
+<image>
+	<filename>img-11.jpg</filename>	
+</image>
+<image>
+	<filename>img-12.jpg</filename>	
+</image>
+<image>
+	<filename>img-13.jpg</filename>	
+</image>
+<image>
+	<filename>img-14.jpg</filename>	
+</image>
+<image>
+	<filename>img-15.jpg</filename>	
+</image>
+<image>
+	<filename>img-16.jpg</filename>	
+</image>
+<image>
+	<filename>img-17.jpg</filename>	
+</image>
+<image>
+	<filename>img-18.jpg</filename>	
+</image>
+<image>
+	<filename>img-19.jpg</filename>	
+</image>
+<image>
+	<filename>img-20.jpg</filename>	
+</image>
+<image>
+	<filename>img-21.jpg</filename>	
+</image>
+<image>
+	<filename>img-22.jpg</filename>	
+</image>
+<image>
+	<filename>img-23.jpg</filename>	
+</image>
+<image>
+	<filename>img-24.jpg</filename>	
+</image>
+<image>
+	<filename>img-25.jpg</filename>	
+</image>
+<image>
+	<filename>img-26.jpg</filename>	
+</image>
+<image>
+	<filename>img-27.jpg</filename>	
+</image>
+<image>
+	<filename>img-28.jpg</filename>	
+</image>
+<image>
+	<filename>img-29.jpg</filename>	
+</image>
+<image>
+	<filename>img-30.jpg</filename>	
+</image>
+<image>
+	<filename>img-31.jpg</filename>	
+</image>
+<image>
+	<filename>img-32.jpg</filename>	
+</image>
+<image>
+	<filename>img-33.jpg</filename>	
+</image>
+<image>
+	<filename>img-34.jpg</filename>	
+</image>
+<image>
+	<filename>img-35.jpg</filename>	
+</image>
+<image>
+	<filename>img-36.jpg</filename>	
+</image>
+</simpleviewerGallery>

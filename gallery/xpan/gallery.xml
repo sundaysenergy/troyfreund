@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="420" maxImageHeight="420" textColor="0xFFFFFF" frameColor="" frameWidth="0" stagePadding="40" thumbnailColumns="3" thumbnailRows="4" navPosition="left" title="{ xpan }" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>co-opa.jpg</filename>	
+</image>
+<image>
+	<filename>crosscrowda.jpg</filename>	
+</image>
+<image>
+	<filename>gina-roger-groomsmena.jpg</filename>
+</image>
+<image>
+	<filename>Kilbourn01a.jpg</filename>
+</image>
+<image>
+	<filename>maureenxpana.jpg</filename>	
+</image>
+<image>
+	<filename>Xpan30mm01a.jpg</filename>	
+</image>
+</simpleviewerGallery>
